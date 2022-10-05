@@ -6,7 +6,7 @@ Create a number guessing game with the following requirements! (Import Scanner a
  - Ask the user to guess the number
    - If the user guesses the number, print "You guessed the number!"
    - If the user guesses too high, print "Too high!"
-   - If the user guesses too low, print "Too low!"
+   - If the user guesses too low, print "  low!"
  - If the user guesses the number more than 5 times, print "You lose!"
 
 ### Requirements 🏫
